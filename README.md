@@ -6,4 +6,3 @@ edorozhkin microservices repository
  - Установлен docker и docker-machine
  - Поднят docker-host в YC
  - Создан и загружен образ в dockerhub
- 
