@@ -1,6 +1,11 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
 
+## ДЗ gitlab-ci-1
+
+ - Установлен и настроен Gitlab CI
+ - Создан pipeline
+
 ## ДЗ docker-4
 
  - Запуск контейнеров в различных сетях.
@@ -16,7 +21,7 @@ edorozhkin microservices repository
  - Собраны Docker образы для приложения
  - Оптимизирован образ для ui
  - Приложения запущены с использованием volume
-
+  < >
 
 ## ДЗ к лекции №16
 
