@@ -1,6 +1,12 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
 
+## ДЗ docker-4
+
+ - Запуск контейнеров в различных сетях.
+ - Развёртывание в docker-compose. Параметризация переменных.
+
+
 ## ДЗ к лекции №17
 
  - Собраны Docker образы для приложения
