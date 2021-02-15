@@ -1,5 +1,9 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
+## ДЗ kubernetes-1
+
+ - Пройден курс Kubernetes The Hard Way
+
 
 ## ДЗ gitlab-ci-1
 
