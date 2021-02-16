@@ -1,5 +1,10 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
+
+## ДЗ kubernetes-2
+
+ - Развёрнуто приложение reddit в GKE 
+
 ## ДЗ kubernetes-1
 
  - Пройден курс Kubernetes The Hard Way
