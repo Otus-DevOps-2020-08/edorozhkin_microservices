@@ -1,5 +1,12 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
+
+## ДЗ kubernetes-3
+
+ - Serive и Ingress котроллёры
+ - Network Policy
+ - Persistent Volume
+
 ## ДЗ kubernetes-1
 
  - Пройден курс Kubernetes The Hard Way
