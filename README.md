@@ -1,11 +1,10 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
 
-## ДЗ kubernetes-3
 
- - Serive и Ingress котроллёры
- - Network Policy
- - Persistent Volume
+## ДЗ kubernetes-2
+
+ - Развёрнуто приложение reddit в GKE 
 
 ## ДЗ kubernetes-1
 
