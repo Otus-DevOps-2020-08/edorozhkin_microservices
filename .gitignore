@@ -5,3 +5,6 @@
 *.tfvars
 .terraform/
 *.retry
+tls*
+minikube*
+kuberctl*

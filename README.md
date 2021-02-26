@@ -1,6 +1,7 @@
 # edorozhkin_microservices
 edorozhkin microservices repository
 
+
 ## ДЗ kubernetes-2
 
  - Развёрнуто приложение reddit в GKE 
